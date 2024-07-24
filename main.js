@@ -38,9 +38,3 @@ crearTarjetas("envidia.jpg", "Envidia");
 crearTarjetas("furia.jpeg", "Furia") */
 
 //
-
-const imagenTarjeta = document.getElementsByClassName("img");
-
-imagenTarjeta.addEventListener("click",()=>{
-     
-})
